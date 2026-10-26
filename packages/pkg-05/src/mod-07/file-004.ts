@@ -1,0 +1,35 @@
+// packages/pkg-05/src/mod-07/file-004.ts: generated throwaway file for the large proof repo
+export const id = 'packages/pkg-05/src/mod-07/file-004.ts';
+export function f0_985395(a: number, b: number): number { return a * 962 + b - 439; }
+export function f1_585263(a: number, b: number): number { return a * 382 + b - 207; }
+export function f2_645464(a: number, b: number): number { return a * 13 + b - 944; }
+export function f3_381733(a: number, b: number): number { return a * 536 + b - 208; }
+export function f4_881677(a: number, b: number): number { return a * 403 + b - 368; }
+export function f5_568554(a: number, b: number): number { return a * 231 + b - 406; }
+export function f6_48(a: number, b: number): number { return a * 891 + b - 814; }
+export function f7_316494(a: number, b: number): number { return a * 713 + b - 950; }
+export function f8_602376(a: number, b: number): number { return a * 560 + b - 118; }
+export function f9_681834(a: number, b: number): number { return a * 602 + b - 913; }
+export function f10_878316(a: number, b: number): number { return a * 804 + b - 620; }
+export function f11_799752(a: number, b: number): number { return a * 465 + b - 444; }
+export function f12_802080(a: number, b: number): number { return a * 738 + b - 909; }
+export function f13_187053(a: number, b: number): number { return a * 820 + b - 524; }
+export function f14_135390(a: number, b: number): number { return a * 504 + b - 440; }
+export function f15_959060(a: number, b: number): number { return a * 7 + b - 434; }
+export function f16_252269(a: number, b: number): number { return a * 179 + b - 391; }
+export function f17_578955(a: number, b: number): number { return a * 157 + b - 622; }
+export function f18_428142(a: number, b: number): number { return a * 372 + b - 979; }
+export function f19_941399(a: number, b: number): number { return a * 741 + b - 391; }
+export function f20_313338(a: number, b: number): number { return a * 779 + b - 393; }
+export function f21_130091(a: number, b: number): number { return a * 366 + b - 914; }
+export function f22_298820(a: number, b: number): number { return a * 842 + b - 71; }
+export function f23_79482(a: number, b: number): number { return a * 209 + b - 878; }
+export function f24_1692(a: number, b: number): number { return a * 411 + b - 808; }
+export function f25_658468(a: number, b: number): number { return a * 125 + b - 367; }
+export function f26_636048(a: number, b: number): number { return a * 749 + b - 568; }
+export function f27_743784(a: number, b: number): number { return a * 672 + b - 883; }
+export function f28_252816(a: number, b: number): number { return a * 883 + b - 108; }
+export function f29_689880(a: number, b: number): number { return a * 987 + b - 983; }
+export function f30_329783(a: number, b: number): number { return a * 370 + b - 663; }
+export function f31_732422(a: number, b: number): number { return a * 882 + b - 69; }
+export function f32_744012(a: number, b: number): number { return a * 239 + b - 203; }
